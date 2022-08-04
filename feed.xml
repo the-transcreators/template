@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>TEMPLATE</title>
+    <link href="https://the-transcreators.github.io/template/feed.xml" rel="self" />
+    <link href="https://the-transcreators.github.io/template" />
+    <updated>2022-08-04T12:32:57+02:00</updated>
+    <author>
+        <name>author1</name>
+    </author>
+    <id>https://the-transcreators.github.io/template</id>
+
+    <entry>
+        <title>RETAIL</title>
+        <author>
+            <name>author1</name>
+        </author>
+        <link href="https://the-transcreators.github.io/template/retail.html"/>
+        <id>https://the-transcreators.github.io/template/retail.html</id>
+
+        <updated>2022-08-02T11:59:26+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://the-transcreators.github.io/template/media/posts/10/shop2b_3700x2000_1.85.jpg" alt="" />
+                    Curabitur sodales molestie felis, nec commodo dui sagittis lobortis. Etiam gravida tincidunt sollicitudin. Curabitur turpis purus, blandit sit amet laoreet vel, ultrices ut est. Sed porta dolor orci, a facilisis dui venenatis eget. Etiam consequat non turpis eleifend pellentesque. Phasellus quis maximus dui, sit amet eleifend mauris. In scelerisque sed&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://the-transcreators.github.io/template/media/posts/10/shop2b_3700x2000_1.85.jpg" alt="" />
+                <p>Curabitur sodales molestie felis, nec commodo dui sagittis lobortis. Etiam gravida tincidunt sollicitudin. Curabitur turpis purus, blandit sit amet laoreet vel, ultrices ut est. Sed porta dolor orci, a facilisis dui venenatis eget. Etiam consequat non turpis eleifend pellentesque. Phasellus quis maximus dui, sit amet eleifend mauris. In scelerisque sed nisi vitae tempus. Proin pellentesque eros eu dolor vulputate, eu faucibus tortor tincidunt. Phasellus tempus sollicitudin tincidunt.</p>
+<p>Nam blandit at nulla congue fermentum. Mauris urna eros, porta a pretium a, porttitor varius massa. Vivamus euismod vel nisl vel sodales. Nunc consectetur, erat at condimentum semper, tellus velit tempus mauris, vitae euismod tellus justo pretium lacus. Duis iaculis lobortis orci, interdum tincidunt magna lacinia ac. Donec sagittis imperdiet lorem, ut luctus nisi suscipit sit amet. Nulla at tempus dui. Cras vel molestie dui. Morbi pharetra ligula sed imperdiet malesuada.</p>
+<p>Quisque nec arcu quis diam varius semper id sed sapien. Curabitur in neque egestas, pulvinar arcu eu, feugiat est. Nulla facilisi. Aliquam erat volutpat. Aliquam tristique aliquam velit, volutpat pulvinar leo mollis vitae. Nulla sed venenatis nisi. Nullam pulvinar interdum ultricies. Vestibulum metus tortor, ullamcorper sit amet nunc ac, varius aliquet ipsum. Praesent hendrerit purus et mi pharetra ornare.</p>
+<p>Vestibulum ac tortor pretium, convallis tortor et, sagittis felis. Morbi luctus tincidunt ipsum, sit amet suscipit nisi auctor sed. Fusce risus mauris, sollicitudin eget enim a, convallis ultrices metus. Donec id luctus augue. Sed vestibulum accumsan lectus, eget euismod nulla bibendum eu. Cras convallis, ipsum sit amet commodo condimentum, orci lorem elementum orci, eu ornare odio velit in metus. Nam gravida arcu et lectus ornare imperdiet. Quisque a mattis justo. Etiam diam est, tincidunt vitae lobortis id, posuere eu nisl. Mauris ante sapien, varius ac luctus a, gravida ac libero. In et est neque. Mauris id semper sem.</p>
+<p>Praesent ac massa venenatis dui sodales mollis ut condimentum ex. Phasellus ut ex sed erat pretium bibendum. Vivamus id elit sed nisi cursus finibus a id lorem. Maecenas a rhoncus orci. Curabitur tempor sapien quis turpis consequat dignissim. Nam dapibus feugiat congue. Maecenas porttitor, ligula a porttitor vehicula, felis sapien ultrices purus, quis congue nunc nisi non felis. Nunc et tellus id dolor fringilla maximus ac eu massa.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>CATERING</title>
+        <author>
+            <name>author1</name>
+        </author>
+        <link href="https://the-transcreators.github.io/template/catering.html"/>
+        <id>https://the-transcreators.github.io/template/catering.html</id>
+
+        <updated>2022-07-31T15:56:34+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://the-transcreators.github.io/template/media/posts/9/catering2_3700x2000_1.85.jpg" alt="" />
+                    Nam blandit at nulla congue fermentum. Mauris urna eros, porta a pretium a, porttitor varius massa. Vivamus euismod vel nisl vel sodales. Nunc consectetur, erat at condimentum semper, tellus velit tempus mauris, vitae euismod tellus justo pretium lacus. Duis iaculis lobortis orci, interdum tincidunt magna lacinia ac. Donec sagittis imperdiet&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://the-transcreators.github.io/template/media/posts/9/catering2_3700x2000_1.85.jpg" alt="" />
+                <p>Nam blandit at nulla congue fermentum. Mauris urna eros, porta a pretium a, porttitor varius massa. Vivamus euismod vel nisl vel sodales. Nunc consectetur, erat at condimentum semper, tellus velit tempus mauris, vitae euismod tellus justo pretium lacus. Duis iaculis lobortis orci, interdum tincidunt magna lacinia ac. Donec sagittis imperdiet lorem, ut luctus nisi suscipit sit amet. Nulla at tempus dui. Cras vel molestie dui. Morbi pharetra ligula sed imperdiet malesuada.</p>
+<p>Quisque nec arcu quis diam varius semper id sed sapien. Curabitur in neque egestas, pulvinar arcu eu, feugiat est. Nulla facilisi. Aliquam erat volutpat. Aliquam tristique aliquam velit, volutpat pulvinar leo mollis vitae. Nulla sed venenatis nisi. Nullam pulvinar interdum ultricies. Vestibulum metus tortor, ullamcorper sit amet nunc ac, varius aliquet ipsum. Praesent hendrerit purus et mi pharetra ornare</p>
+<p>Vestibulum ac tortor pretium, convallis tortor et, sagittis felis. Morbi luctus tincidunt ipsum, sit amet suscipit nisi auctor sed. Fusce risus mauris, sollicitudin eget enim a, convallis ultrices metus. Donec id luctus augue. Sed vestibulum accumsan lectus, eget euismod nulla bibendum eu. Cras convallis, ipsum sit amet commodo condimentum, orci lorem elementum orci, eu ornare odio velit in metus. Nam gravida arcu et lectus ornare imperdiet. Quisque a mattis justo. Etiam diam est, tincidunt vitae lobortis id, posuere eu nisl. Mauris ante sapien, varius ac luctus a, gravida ac libero. In et est neque. Mauris id semper sem.</p>
+<p>Sed vitae orci ut urna auctor malesuada ullamcorper et sem. Praesent ac massa venenatis dui sodales mollis ut condimentum ex. Phasellus ut ex sed erat pretium bibendum. Vivamus id elit sed nisi cursus finibus a id lorem. Maecenas a rhoncus orci. Curabitur tempor sapien quis turpis consequat dignissim. Nam dapibus feugiat congue. Maecenas porttitor, ligula a porttitor vehicula, felis sapien ultrices purus, quis congue nunc nisi non felis. Nunc et tellus id dolor fringilla maximus ac eu massa.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>SERVICES</title>
+        <author>
+            <name>author1</name>
+        </author>
+        <link href="https://the-transcreators.github.io/template/services.html"/>
+        <id>https://the-transcreators.github.io/template/services.html</id>
+
+        <updated>2022-08-02T16:00:20+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://the-transcreators.github.io/template/media/posts/8/man_at_work2_3700x2000_1.85.jpg" alt="" />
+                    Quisque nec arcu quis diam varius semper id sed sapien. Curabitur in neque egestas, pulvinar arcu eu, feugiat est. Nulla facilisi. Aliquam erat volutpat. Aliquam tristique aliquam velit, volutpat pulvinar leo mollis vitae. Nulla sed venenatis nisi. Nullam pulvinar interdum ultricies. Vestibulum metus tortor, ullamcorper sit amet nunc ac, varius&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://the-transcreators.github.io/template/media/posts/8/man_at_work2_3700x2000_1.85.jpg" alt="" />
+                <p>Quisque nec arcu quis diam varius semper id sed sapien. Curabitur in neque egestas, pulvinar arcu eu, feugiat est. Nulla facilisi. Aliquam erat volutpat. Aliquam tristique aliquam velit, volutpat pulvinar leo mollis vitae. Nulla sed venenatis nisi. Nullam pulvinar interdum ultricies. Vestibulum metus tortor, ullamcorper sit amet nunc ac, varius aliquet ipsum. Praesent hendrerit purus et mi pharetra ornare.</p>
+<p>Vestibulum ac tortor pretium, convallis tortor et, sagittis felis. Morbi luctus tincidunt ipsum, sit amet suscipit nisi auctor sed. Fusce risus mauris, sollicitudin eget enim a, convallis ultrices metus. Donec id luctus augue. Sed vestibulum accumsan lectus, eget euismod nulla bibendum eu. Cras convallis, ipsum sit amet commodo condimentum, orci lorem elementum orci, eu ornare odio velit in metus. Nam gravida arcu et lectus ornare imperdiet. Quisque a mattis justo. Etiam diam est, tincidunt vitae lobortis id, posuere eu nisl. Mauris ante sapien, varius ac luctus a, gravida ac libero. In et est neque. Mauris id semper sem.</p>
+<p>Sed vitae orci ut urna auctor malesuada ullamcorper et sem. Praesent ac massa venenatis dui sodales mollis ut condimentum ex. Phasellus ut ex sed erat pretium bibendum. Vivamus id elit sed nisi cursus finibus a id lorem. Maecenas a rhoncus orci. Curabitur tempor sapien quis turpis consequat dignissim. Nam dapibus feugiat congue. Maecenas porttitor, ligula a porttitor vehicula, felis sapien ultrices purus, quis congue nunc nisi non felis. Nunc et tellus id dolor fringilla maximus ac eu massa.</p>
+<p>Donec fermentum turpis sed nulla facilisis, id vestibulum mi posuere. Phasellus scelerisque leo et mattis semper. Curabitur sodales molestie felis, nec commodo dui sagittis lobortis. Etiam gravida tincidunt sollicitudin. Curabitur turpis purus, blandit sit amet laoreet vel, ultrices ut est. Sed porta dolor orci, a facilisis dui venenatis eget. Etiam consequat non turpis eleifend pellentesque. Phasellus quis maximus dui, sit amet eleifend mauris. In scelerisque sed nisi vitae tempus. Proin pellentesque eros eu dolor vulputate, eu faucibus tortor tincidunt. Phasellus tempus sollicitudin tincidunt.</p>
+<p>Nam blandit at nulla congue fermentum. Mauris urna eros, porta a pretium a, porttitor varius massa. Vivamus euismod vel nisl vel sodales. Nunc consectetur, erat at condimentum semper, tellus velit tempus mauris, vitae euismod tellus justo pretium lacus. Duis iaculis lobortis orci, interdum tincidunt magna lacinia ac. Donec sagittis imperdiet lorem, ut luctus nisi suscipit sit amet. Nulla at tempus dui. Cras vel molestie dui. Morbi pharetra ligula sed imperdiet malesuada. </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>PHYSICAL GOODS</title>
+        <author>
+            <name>author1</name>
+        </author>
+        <link href="https://the-transcreators.github.io/template/physical-goods.html"/>
+        <id>https://the-transcreators.github.io/template/physical-goods.html</id>
+
+        <updated>2022-08-01T12:00:59+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://the-transcreators.github.io/template/media/posts/7/rolls_of_product_3700x2000_1.85.jpg" alt="" />
+                    Vestibulum ac tortor pretium, convallis tortor et, sagittis felis. Morbi luctus tincidunt ipsum, sit amet suscipit nisi auctor sed. Fusce risus mauris, sollicitudin eget enim a, convallis ultrices metus. Cras convallis, ipsum sit amet commodo condimentum, orci lorem elementum orci, eu ornare odio velit in metus. Nam gravida arcu et&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://the-transcreators.github.io/template/media/posts/7/rolls_of_product_3700x2000_1.85.jpg" alt="" />
+                <p>Vestibulum ac tortor pretium, convallis tortor et, sagittis felis. Morbi luctus tincidunt ipsum, sit amet suscipit nisi auctor sed. Fusce risus mauris, sollicitudin eget enim a, convallis ultrices metus.</p>
+<ul style="list-style-type: square;">
+<li>Donec id luctus augue</li>
+<li>Sed vestibulum accumsan lectus</li>
+<li>Eget euismod nulla bibendum eu</li>
+</ul>
+<p>Cras convallis, ipsum sit amet commodo condimentum, orci lorem elementum orci, eu ornare odio velit in metus. Nam gravida arcu et lectus ornare imperdiet. Quisque a mattis justo. Etiam diam est, tincidunt vitae lobortis id, posuere eu nisl. Mauris ante sapien, varius ac luctus a, gravida ac libero. In et est neque. Mauris id semper sem.</p>
+<p>Sed vitae orci ut urna auctor malesuada ullamcorper et sem. Praesent ac massa venenatis dui sodales mollis ut condimentum ex. Phasellus ut ex sed erat pretium bibendum. Vivamus id elit sed nisi cursus finibus a id lorem. Maecenas a rhoncus orci. Curabitur tempor sapien quis turpis consequat dignissim. Nam dapibus feugiat congue. Maecenas porttitor, ligula a porttitor vehicula, felis sapien ultrices purus, quis congue nunc nisi non felis. Nunc et tellus id dolor fringilla maximus ac eu massa.</p>
+<p>Donec fermentum turpis sed nulla facilisis, id vestibulum mi posuere. Phasellus scelerisque leo et mattis semper. Curabitur sodales molestie felis, nec commodo dui sagittis lobortis. Etiam gravida tincidunt sollicitudin. Curabitur turpis purus, blandit sit amet laoreet vel, ultrices ut est. Sed porta dolor orci, a facilisis dui venenatis eget. Etiam consequat non turpis eleifend pellentesque. Phasellus quis maximus dui, sit amet eleifend mauris. In scelerisque sed nisi vitae tempus. Proin pellentesque eros eu dolor vulputate, eu faucibus tortor tincidunt. Phasellus tempus sollicitudin tincidunt.</p>
+<p>Quisque nec arcu quis diam varius semper id sed sapien. Curabitur in neque egestas, pulvinar arcu eu, feugiat est. Nulla facilisi. Aliquam erat volutpat. Aliquam tristique aliquam velit, volutpat pulvinar leo mollis vitae. Nulla sed venenatis nisi. Nullam pulvinar interdum ultricies. Vestibulum metus tortor, ullamcorper sit amet nunc ac, varius aliquet ipsum. Praesent hendrerit purus et mi pharetra ornare.</p>
+<p>Nam blandit at nulla congue fermentum. Mauris urna eros, porta a pretium a, porttitor varius massa. Vivamus euismod vel nisl vel sodales. Nunc consectetur, erat at condimentum semper, tellus velit tempus mauris, vitae euismod tellus justo pretium lacus. Duis iaculis lobortis orci, interdum tincidunt magna lacinia ac. Donec sagittis imperdiet lorem, ut luctus nisi suscipit sit amet. Nulla at tempus dui. Cras vel molestie dui. Morbi pharetra ligula sed imperdiet malesuada. </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>CONTACT DETAILS</title>
+        <author>
+            <name>author1</name>
+        </author>
+        <link href="https://the-transcreators.github.io/template/contact.html"/>
+        <id>https://the-transcreators.github.io/template/contact.html</id>
+
+        <updated>2022-08-01T12:11:37+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://the-transcreators.github.io/template/media/posts/6/contact_3700x2000_1.85.jpg" alt="" />
+                    Xxxxxx SA 99 Rue des Xxxxxx 00000 Xxxxxx France SALES Tel: +33 xx xx xx xx xx Email: sales@xxxxxx.xxx ADMIN Tel: +33 xx xx xx xx xx Email: admin@xxxxxx.xxx HOURS OF BUSINESS Mon-Fri: 08:00 – 18:00 CET Closed on Saturdays, Sundays and French public holidays
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://the-transcreators.github.io/template/media/posts/6/contact_3700x2000_1.85.jpg" alt="" />
+                <p>Xxxxxx SA<br>99 Rue des Xxxxxx<br>00000 Xxxxxx<br>France</p>
+<p><span class="text-uppercase">SALES</span><br>Tel: +33 xx xx xx xx xx<br>Email: sales@xxxxxx.xxx</p>
+<p><span class="text-uppercase">ADMIN</span><br>Tel: +33 xx xx xx xx xx<br>Email: admin@xxxxxx.xxx</p>
+<p><span class="text-uppercase">HOURS OF BUSINESS</span><br>Mon-Fri: 08:00 – 18:00 CET<br>Closed on Saturdays, Sundays and French public holidays</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>COMPANY AND TEAM</title>
+        <author>
+            <name>author1</name>
+        </author>
+        <link href="https://the-transcreators.github.io/template/about.html"/>
+        <id>https://the-transcreators.github.io/template/about.html</id>
+
+        <updated>2022-08-02T11:51:41+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://the-transcreators.github.io/template/media/posts/5/table_football_3700x2000_1.85.jpg" alt="" />
+                    Suspendisse interdum suscipit tincidunt. Vestibulum sagittis, odio non hendrerit pellentesque, ante tellus mattis augue, non aliquet ante urna sit amet magna. Duis interdum nec mauris tincidunt tincidunt. Nunc et luctus odio. Maecenas purus risus, dapibus in eleifend ut, sollicitudin cursus risus. Donec quis ultricies velit. Phasellus quis nisi est. Phasellus&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://the-transcreators.github.io/template/media/posts/5/table_football_3700x2000_1.85.jpg" alt="" />
+                <p>Suspendisse interdum suscipit tincidunt. Vestibulum sagittis, odio non hendrerit pellentesque, ante tellus mattis augue, non aliquet ante urna sit amet magna. Duis interdum nec mauris tincidunt tincidunt.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="4">
+<figure class="gallery__item"><a href="https://the-transcreators.github.io/template/media/posts/5/gallery/pexels-christina-morillo-1181424.jpg" data-size="640x959"><img loading="lazy" src="https://the-transcreators.github.io/template/media/posts/5/gallery/pexels-christina-morillo-1181424-thumbnail.jpg" alt="" width="640" height="959"></a>
+<figcaption>Belinda Bossington - CEO Extraordinaire</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://the-transcreators.github.io/template/media/posts/5/gallery/pexels-fauxels-3184611.jpg" data-size="640x427"><img loading="lazy" src="https://the-transcreators.github.io/template/media/posts/5/gallery/pexels-fauxels-3184611-thumbnail.jpg" alt="" width="640" height="427"></a>
+<figcaption>John Jollyman - Guru of Smiles</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://the-transcreators.github.io/template/media/posts/5/gallery/pexels-edmond-dantes-4347368.jpg" data-size="640x960"><img loading="lazy" src="https://the-transcreators.github.io/template/media/posts/5/gallery/pexels-edmond-dantes-4347368-thumbnail.jpg" alt="" width="640" height="960"></a>
+<figcaption>Carmen Computerhugger - Czar of Security</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://the-transcreators.github.io/template/media/posts/5/gallery/pexels-mentatdgt-937481.jpg" data-size="640x427"><img loading="lazy" src="https://the-transcreators.github.io/template/media/posts/5/gallery/pexels-mentatdgt-937481-thumbnail.jpg" alt="" width="640" height="427"></a>
+<figcaption>Stephen Smartson - Overlord of Suits</figcaption>
+</figure>
+</div></div>
+<p>Nunc et luctus odio. Maecenas purus risus, dapibus in eleifend ut, sollicitudin cursus risus. Donec quis ultricies velit. Phasellus quis nisi est. Phasellus vehicula dui ac dapibus venenatis. In quis turpis et odio pulvinar dapibus. Cras mattis est nec hendrerit molestie. Praesent semper vehicula ligula vitae efficitur. Maecenas tristique hendrerit sapien, at volutpat nulla lobortis in. Cras facilisis massa id nunc bibendum scelerisque. Pellentesque quis sapien purus. Suspendisse eget mi diam. Mauris sollicitudin mauris magna, eget malesuada felis ultricies ac.</p>
+<p>Fusce sit amet dolor velit. Quisque eu efficitur eros. Vestibulum auctor diam ut risus euismod, a facilisis justo rutrum. Proin a auctor est. Proin ornare aliquet felis ac viverra. Sed egestas turpis odio, in pulvinar eros sodales at. Phasellus gravida vestibulum arcu nec ultrices. Sed luctus varius sodales. Quisque auctor nunc facilisis nisi condimentum ornare. Quisque id sapien arcu. Sed pharetra elementum odio sit amet sollicitudin. Ut pulvinar metus ac neque mollis tempus. Integer lacus purus, faucibus at semper quis, ultricies vel ligula. Aliquam at metus vel odio vehicula imperdiet eget et erat.</p>
+<p>Nulla ac tortor et nisl porttitor sollicitudin eu vel est. Aliquam eleifend, velit eget laoreet congue, metus augue vulputate metus, non tempus leo turpis ut risus. Pellentesque vel nunc sed magna blandit posuere in ac dolor. Nulla quam elit, efficitur sed maximus id, vestibulum eget justo. Nunc finibus turpis non arcu semper, ac vestibulum purus consectetur. Integer ultrices quis nibh eu aliquam. Vivamus sed ipsum sit amet lectus congue pulvinar malesuada a sem. Fusce viverra commodo lacus sed pharetra. Donec a odio id tortor varius volutpat. Morbi id nibh felis.</p>
+<p>Nam lacinia porta quam, eu tincidunt orci. Etiam mattis neque eu bibendum laoreet. Quisque porta turpis auctor, pulvinar ipsum non, luctus nulla. Fusce ut porttitor sapien. Proin consectetur varius felis, id facilisis risus feugiat eget. Sed ut tellus elementum, vehicula dui ac, lacinia ligula. Sed id ex sapien. Vestibulum libero nisl, maximus nec faucibus et, faucibus et mi. Praesent quis diam sagittis, condimentum odio non, lacinia ligula. Nullam pretium sed neque vitae iaculis. Sed tellus sapien, tempor non nulla eu, luctus rutrum ipsum.</p>
+<p>Maecenas molestie diam mi, eget facilisis mauris rutrum pulvinar. Vivamus efficitur ipsum et lacus tempor bibendum. Ut a libero nec quam viverra eleifend a vel odio. Curabitur lacinia magna ligula, nec porta purus tempus quis. Morbi et libero tincidunt, feugiat ligula eu, porttitor mi. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc id dignissim elit, in lobortis velit.</p>
+<p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc lorem sem, lacinia sed scelerisque et, lobortis ac arcu. Maecenas sit amet nibh et nisi convallis ultricies vitae eget ipsum. Curabitur nec urna in eros ornare tristique. Vivamus pretium porttitor ex, vel blandit lectus vulputate vel. Donec at arcu sed risus rutrum hendrerit at eu massa. Ut tempus lorem eu cursus luctus. Nunc maximus sapien eu ipsum pretium congue. In hac habitasse platea dictumst. Proin aliquet odio sed aliquam lacinia. Integer consectetur viverra nisl, eget vulputate ex varius sit amet. Etiam a lectus metus. Etiam sed varius arcu. Nunc quam tortor, gravida nec eleifend eget, vulputate sed magna. Curabitur accumsan ante eu eros laoreet ultrices. Phasellus porta tellus ac pulvinar interdum. </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>IMAGE-FRIENDLY</title>
+        <author>
+            <name>author1</name>
+        </author>
+        <link href="https://the-transcreators.github.io/template/image-friendly.html"/>
+        <id>https://the-transcreators.github.io/template/image-friendly.html</id>
+
+        <updated>2022-08-04T09:59:01+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://the-transcreators.github.io/template/media/posts/4/camera3c_3700x2000_1.85.jpg" alt="" />
+                    This template is designed to have a header image on each page. Adding them is quick and easy, but choosing them can take some time (although many would argue that it's worth the effort). SEE TEMPLATE WITH NO HEADER IMAGES Great-looking image galleries can also be added in a few&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://the-transcreators.github.io/template/media/posts/4/camera3c_3700x2000_1.85.jpg" alt="" />
+                <p><strong>This template is designed to have a header image</strong> on each page. Adding them is quick and easy, but choosing them can take some time (although many would argue that it's worth the effort).<br><strong><a href="https://the-transcreators.github.io/no-header-images/" target="_blank" rel="noopener noreferrer">SEE TEMPLATE WITH NO HEADER IMAGES</a></strong></p>
+<h4>Great-looking image galleries can also be added in a few minutes</h4>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://the-transcreators.github.io/template/media/posts/4/gallery/nuts_and_bolts_1080-70pc.jpg" data-size="1998x1080"><img loading="lazy" src="https://the-transcreators.github.io/template/media/posts/4/gallery/nuts_and_bolts_1080-70pc-thumbnail.jpg" alt="" width="720" height="389"></a>
+<figcaption>Nuts ands bolts</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://the-transcreators.github.io/template/media/posts/4/gallery/camera_1080-90pc.jpg" data-size="1080x1080"><img loading="lazy" src="https://the-transcreators.github.io/template/media/posts/4/gallery/camera_1080-90pc-thumbnail.jpg" alt="" width="720" height="720"></a>
+<figcaption>Old camera</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://the-transcreators.github.io/template/media/posts/4/gallery/cave_etchings_1080-70pc.jpg" data-size="1617x1080"><img loading="lazy" src="https://the-transcreators.github.io/template/media/posts/4/gallery/cave_etchings_1080-70pc-thumbnail.jpg" alt="" width="720" height="481"></a>
+<figcaption>Cave etchings</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://the-transcreators.github.io/template/media/posts/4/gallery/flower-shop_1080-70pc.jpg" data-size="1623x1080"><img loading="lazy" src="https://the-transcreators.github.io/template/media/posts/4/gallery/flower-shop_1080-70pc-thumbnail.jpg" alt="" width="720" height="479"></a>
+<figcaption>Flower shop</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://the-transcreators.github.io/template/media/posts/4/gallery/code_1080-70pc.jpg" data-size="1620x1080"><img loading="lazy" src="https://the-transcreators.github.io/template/media/posts/4/gallery/code_1080-70pc-thumbnail.jpg" alt="" width="720" height="480"></a>
+<figcaption>Code (avoid when building websites)</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://the-transcreators.github.io/template/media/posts/4/gallery/pen_and_book_1080-70pc.jpg" data-size="1998x1080"><img loading="lazy" src="https://the-transcreators.github.io/template/media/posts/4/gallery/pen_and_book_1080-70pc-thumbnail.jpg" alt="" width="720" height="389"></a>
+<figcaption>Pen and notebook</figcaption>
+</figure>
+</div></div>
+<h4>Embedding videos is just as easy</h4>
+<figure class="post__video"><iframe loading="lazy" width="1280" height="720" src="https://www.youtube.com/embed/rzmd7RouGrM" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>WHAT THE BUSINESS DOES</title>
+        <author>
+            <name>author1</name>
+        </author>
+        <link href="https://the-transcreators.github.io/template/home.html"/>
+        <id>https://the-transcreators.github.io/template/home.html</id>
+
+        <updated>2022-08-03T07:37:10+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://the-transcreators.github.io/template/media/posts/1/puzzle4_3700x2000_1.85.jpg" alt="" />
+                    Nunc et luctus odio. Maecenas purus risus, dapibus in eleifend ut, sollicitudin cursus risus. Donec quis ultricies velit. Phasellus quis nisi est. Phasellus vehicula dui ac dapibus venenatis. Quisque eu efficitur eros. Vestibulum auctor diam ut risus euismod, a facilisis justo rutrum. Proin a auctor est. Proin ornare aliquet felis&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://the-transcreators.github.io/template/media/posts/1/puzzle4_3700x2000_1.85.jpg" alt="" />
+                <p>Nunc et luctus odio. Maecenas purus risus, dapibus in eleifend ut, sollicitudin cursus risus. Donec quis ultricies velit. Phasellus quis nisi est. Phasellus vehicula dui ac dapibus venenatis.</p>
+<h3>Fusce sit amet dolor velit</h3>
+<p>Quisque eu efficitur eros. Vestibulum auctor diam ut risus euismod, a facilisis justo rutrum. Proin a auctor est. Proin ornare aliquet felis ac viverra. Sed egestas turpis odio, in pulvinar eros sodales at. Phasellus gravida vestibulum arcu nec ultrices. Sed luctus varius sodales. Quisque auctor nunc facilisis nisi condimentum ornare. Quisque id sapien arcu. Sed pharetra elementum odio sit amet sollicitudin. Ut pulvinar metus ac neque mollis tempus. Integer lacus purus, faucibus at semper quis, ultricies vel ligula. Aliquam at metus vel odio vehicula imperdiet eget et erat.</p>
+<p class="msg msg--info">Nulla ac tortor et nisl porttitor sollicitudin eu vel est. Aliquam eleifend, velit eget laoreet congue, metus augue vulputate metus, non tempus leo turpis ut risus. Pellentesque vel nunc sed magna blandit posuere in ac dolor.</p>
+<p>Nam lacinia porta quam, eu tincidunt orci. Etiam mattis neque eu bibendum laoreet. Quisque porta turpis auctor, pulvinar ipsum non, luctus nulla. Fusce ut porttitor sapien. Proin consectetur varius felis, id facilisis risus feugiat eget. Sed ut tellus elementum, vehicula dui ac, lacinia ligula. Sed id ex sapien. Vestibulum libero nisl, maximus nec faucibus et, faucibus et mi. Praesent quis diam sagittis, condimentum odio non, lacinia ligula. Nullam pretium sed neque vitae iaculis. Sed tellus sapien, tempor non nulla eu, luctus rutrum ipsum.</p>
+<p>Maecenas molestie diam mi, eget facilisis mauris rutrum pulvinar. Vivamus efficitur ipsum et lacus tempor bibendum. Ut a libero nec quam viverra eleifend a vel odio. Curabitur lacinia magna ligula, nec porta purus tempus quis. Morbi et libero tincidunt, feugiat ligula eu, porttitor mi. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc id dignissim elit, in lobortis velit.</p>
+<p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc lorem sem, lacinia sed scelerisque et, lobortis ac arcu. Maecenas sit amet nibh et nisi convallis ultricies vitae eget ipsum. Curabitur nec urna in eros ornare tristique. Vivamus pretium porttitor ex, vel blandit lectus vulputate vel. Donec at arcu sed risus rutrum hendrerit at eu massa. Ut tempus lorem eu cursus luctus. Nunc maximus sapien eu ipsum pretium congue. In hac habitasse platea dictumst. Proin aliquet odio sed aliquam lacinia. Integer consectetur viverra nisl, eget vulputate ex varius sit amet. Etiam a lectus metus. Etiam sed varius arcu. Nunc quam tortor, gravida nec eleifend eget, vulputate sed magna. Curabitur accumsan ante eu eros laoreet ultrices. Phasellus porta tellus ac pulvinar interdum. </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>SIMPLE BUT EFFECTIVE</title>
+        <author>
+            <name>author1</name>
+        </author>
+        <link href="https://the-transcreators.github.io/template/simple.html"/>
+        <id>https://the-transcreators.github.io/template/simple.html</id>
+
+        <updated>2022-08-04T12:32:57+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://the-transcreators.github.io/template/media/posts/3/construction2_3700x2000_1.85.jpg" alt="" />
+                    This template was developed using a very simple, open source website builder that can be downloaded, installed and used ad infinitum for free on Windows or Mac. The template is based on the standard built-in theme. The website builder is a "static site generator" and is very user-friendly. It has&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://the-transcreators.github.io/template/media/posts/3/construction2_3700x2000_1.85.jpg" alt="" />
+                <p><strong>This template was developed using</strong> a very simple, open source website builder that can be downloaded, installed and used ad infinitum for free on Windows or Mac. The template is based on the standard built-in theme.</p>
+<p>The website builder is a "<strong>static site generator</strong>" and is very user-friendly. It has an easy-to-understand user interface and does <em>not </em>involve working with the command line or any code at all. Websites can be either uploaded directly to a hosting service or output to a folder. Website projects can be exchanged between users via Dropbox or similar. All projects are developed and stored offline.</p>
+<p><strong>Working within the constraints of this simple template</strong> brings a refreshing discipline. It prevents endless fiddling with layout and messing around with effects. There is a growing school of thought that the vast majority of website visitors—while they appreciate aesthetically pleasing design to a certain extent—mostly want simplicity, clarity and speed.</p>
+<table style="border-collapse: collapse; width: 100%; background-color: #bfedd2; border-color: #bfedd2;" border="1">
+<tbody>
+<tr>
+<td style="width: 99.8575%; border-style: solid; border-color: #2dc26b;">
+<h4><strong>TIP</strong></h4>
+<figure class="post__image align-left"><img loading="lazy"  style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal); outline: 3px solid rgba(var(--color-primary-rgb), 0.55)  !important;" src="https://the-transcreators.github.io/template/media/posts/3/menu.jpg" sizes="100vw" srcset="https://the-transcreators.github.io/template/media/posts/3/responsive/menu-xs.jpg 300w ,https://the-transcreators.github.io/template/media/posts/3/responsive/menu-sm.jpg 480w ,https://the-transcreators.github.io/template/media/posts/3/responsive/menu-md.jpg 768w ,https://the-transcreators.github.io/template/media/posts/3/responsive/menu-lg.jpg 1024w ,https://the-transcreators.github.io/template/media/posts/3/responsive/menu-xl.jpg 1360w ,https://the-transcreators.github.io/template/media/posts/3/responsive/menu-2xl.jpg 1600w"  alt="" width="824" height="300"></figure><br><strong style="font-family: var(--editor-font-family); font-size: inherit;">When deciding on what menu items to include</strong><span style="font-family: var(--editor-font-family); font-size: inherit;">, bear in mind that the main menu</span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> items should be kept as simple as possible. Submenu items can be more descriptive if required.</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Simplicity, clarity and speed </strong>is what this template is designed to give visitors. The visual experience mostly depends on the header images. If the header images are right, then websites created from this template will make a very good aesthetic impression indeed, without the site creator spending a long time on design and configuration.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
