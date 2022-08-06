@@ -3,7 +3,7 @@
     <title>TEMPLATE</title>
     <link href="https://the-transcreators.github.io/template/feed.xml" rel="self" />
     <link href="https://the-transcreators.github.io/template" />
-    <updated>2022-08-04T12:32:57+02:00</updated>
+    <updated>2022-08-06T09:21:58+02:00</updated>
     <author>
         <name>author1</name>
     </author>
@@ -193,19 +193,20 @@
         <link href="https://the-transcreators.github.io/template/image-friendly.html"/>
         <id>https://the-transcreators.github.io/template/image-friendly.html</id>
 
-        <updated>2022-08-04T09:59:01+02:00</updated>
+        <updated>2022-08-06T09:21:58+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://the-transcreators.github.io/template/media/posts/4/camera3c_3700x2000_1.85.jpg" alt="" />
-                    This template is designed to have a header image on each page. Adding them is quick and easy, but choosing them can take some time (although many would argue that it's worth the effort). SEE TEMPLATE WITH NO HEADER IMAGES Great-looking image galleries can also be added in a few&hellip;
+                    This template is designed to have a header image on each page. Adding them is quick and easy, but choosing them can take some time (although many would argue that it's worth the effort). SEE TEMPLATE WITH NO HEADER IMAGES Great-looking image galleries can be created in a few minutes&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://the-transcreators.github.io/template/media/posts/4/camera3c_3700x2000_1.85.jpg" alt="" />
                 <p><strong>This template is designed to have a header image</strong> on each page. Adding them is quick and easy, but choosing them can take some time (although many would argue that it's worth the effort).<br><strong><a href="https://the-transcreators.github.io/no-header-images/" target="_blank" rel="noopener noreferrer">SEE TEMPLATE WITH NO HEADER IMAGES</a></strong></p>
-<h4>Great-looking image galleries can also be added in a few minutes</h4>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<div> </div>
+<h4>Great-looking image galleries can be created in a few minutes</h4>
+<div class="gallery-wrapper"><div class="gallery" style="margin-top: 1.6rem; margin-bottom: 0rem;"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://the-transcreators.github.io/template/media/posts/4/gallery/nuts_and_bolts_1080-70pc.jpg" data-size="1998x1080"><img loading="lazy" src="https://the-transcreators.github.io/template/media/posts/4/gallery/nuts_and_bolts_1080-70pc-thumbnail.jpg" alt="" width="720" height="389"></a>
 <figcaption>Nuts ands bolts</figcaption>
 </figure>
@@ -224,9 +225,11 @@
 <figure class="gallery__item"><a href="https://the-transcreators.github.io/template/media/posts/4/gallery/pen_and_book_1080-70pc.jpg" data-size="1998x1080"><img loading="lazy" src="https://the-transcreators.github.io/template/media/posts/4/gallery/pen_and_book_1080-70pc-thumbnail.jpg" alt="" width="720" height="389"></a>
 <figcaption>Pen and notebook</figcaption>
 </figure>
-</div></div>
-<h4>Embedding videos is just as easy</h4>
+<div> </div></div>
+<div> </div>
+<h4>It only takes a few clicks to embed a video</h4>
 <figure class="post__video"><iframe loading="lazy" width="1280" height="720" src="https://www.youtube.com/embed/rzmd7RouGrM" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+</div>
             ]]>
         </content>
     </entry>
