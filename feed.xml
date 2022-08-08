@@ -3,7 +3,7 @@
     <title>TEMPLATE</title>
     <link href="https://the-transcreators.github.io/template/feed.xml" rel="self" />
     <link href="https://the-transcreators.github.io/template" />
-    <updated>2022-08-06T09:21:58+02:00</updated>
+    <updated>2022-08-08T05:55:09+02:00</updated>
     <author>
         <name>author1</name>
     </author>
@@ -193,7 +193,7 @@
         <link href="https://the-transcreators.github.io/template/image-friendly.html"/>
         <id>https://the-transcreators.github.io/template/image-friendly.html</id>
 
-        <updated>2022-08-06T09:21:58+02:00</updated>
+        <updated>2022-08-08T05:43:53+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://the-transcreators.github.io/template/media/posts/4/camera3c_3700x2000_1.85.jpg" alt="" />
@@ -203,7 +203,7 @@
         <content type="html">
             <![CDATA[
                     <img src="https://the-transcreators.github.io/template/media/posts/4/camera3c_3700x2000_1.85.jpg" alt="" />
-                <p><strong>This template is designed to have a header image</strong> on each page. Adding them is quick and easy, but choosing them can take some time (although many would argue that it's worth the effort).<br><strong><a href="https://the-transcreators.github.io/no-header-images/" target="_blank" rel="noopener noreferrer">SEE TEMPLATE WITH NO HEADER IMAGES</a></strong></p>
+                <p><strong>This template is designed to have a header image on each page</strong>. Adding them is quick and easy, but choosing them can take some time (although many would argue that it's worth the effort).<br><strong><a href="https://the-transcreators.github.io/no-header-images/" target="_blank" rel="noopener noreferrer">SEE TEMPLATE WITH NO HEADER IMAGES</a></strong></p>
 <div> </div>
 <h4>Great-looking image galleries can be created in a few minutes</h4>
 <div class="gallery-wrapper"><div class="gallery" style="margin-top: 1.6rem; margin-bottom: 0rem;"  data-is-empty="false" data-translation="Add images" data-columns="3">
@@ -269,7 +269,7 @@
         <link href="https://the-transcreators.github.io/template/simple.html"/>
         <id>https://the-transcreators.github.io/template/simple.html</id>
 
-        <updated>2022-08-04T12:32:57+02:00</updated>
+        <updated>2022-08-08T05:55:09+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://the-transcreators.github.io/template/media/posts/3/construction2_3700x2000_1.85.jpg" alt="" />
@@ -287,12 +287,12 @@
 <tr>
 <td style="width: 99.8575%; border-style: solid; border-color: #2dc26b;">
 <h4><strong>TIP</strong></h4>
-<figure class="post__image align-left"><img loading="lazy"  style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal); outline: 3px solid rgba(var(--color-primary-rgb), 0.55)  !important;" src="https://the-transcreators.github.io/template/media/posts/3/menu.jpg" sizes="100vw" srcset="https://the-transcreators.github.io/template/media/posts/3/responsive/menu-xs.jpg 300w ,https://the-transcreators.github.io/template/media/posts/3/responsive/menu-sm.jpg 480w ,https://the-transcreators.github.io/template/media/posts/3/responsive/menu-md.jpg 768w ,https://the-transcreators.github.io/template/media/posts/3/responsive/menu-lg.jpg 1024w ,https://the-transcreators.github.io/template/media/posts/3/responsive/menu-xl.jpg 1360w ,https://the-transcreators.github.io/template/media/posts/3/responsive/menu-2xl.jpg 1600w"  alt="" width="824" height="300"></figure><br><strong style="font-family: var(--editor-font-family); font-size: inherit;">When deciding on what menu items to include</strong><span style="font-family: var(--editor-font-family); font-size: inherit;">, bear in mind that the main menu</span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> items should be kept as simple as possible. Submenu items can be more descriptive if required.</span></p>
+<figure class="post__image align-left"><img loading="lazy"  style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal); outline: 3px solid rgba(var(--color-primary-rgb), 0.55)  !important;" src="https://the-transcreators.github.io/template/media/posts/3/menu.jpg" sizes="100vw" srcset="https://the-transcreators.github.io/template/media/posts/3/responsive/menu-xs.jpg 300w ,https://the-transcreators.github.io/template/media/posts/3/responsive/menu-sm.jpg 480w ,https://the-transcreators.github.io/template/media/posts/3/responsive/menu-md.jpg 768w ,https://the-transcreators.github.io/template/media/posts/3/responsive/menu-lg.jpg 1024w ,https://the-transcreators.github.io/template/media/posts/3/responsive/menu-xl.jpg 1360w ,https://the-transcreators.github.io/template/media/posts/3/responsive/menu-2xl.jpg 1600w"  alt="" width="824" height="300"></figure><br><strong style="font-family: var(--editor-font-family); font-size: inherit;">When deciding on what menu items to include</strong><span style="font-family: var(--editor-font-family); font-size: inherit;">, bear in mind that the main menu</span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> items should be kept as simple as possible. Submenu items can be a little more descriptive.</span></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Simplicity, clarity and speed </strong>is what this template is designed to give visitors. The visual experience mostly depends on the header images. If the header images are right, then websites created from this template will make a very good aesthetic impression indeed, without the site creator spending a long time on design and configuration.</p>
+<p>This no-frills template produces <strong>responsive</strong> websites that automatically adapt to computer, tablet and phone screen formats. They are easy to navigate and <strong>present information quickly and clearly</strong>. The visual experience for visitors can be greatly and easily enhanced with good header images. If the header images are right, then websites created from this template will make a <strong>very good aesthetic impression</strong> too, without the site creator having to spend a long time on design and configuration.</p>
             ]]>
         </content>
     </entry>
