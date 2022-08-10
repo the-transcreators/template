@@ -3,7 +3,7 @@
     <title>TEMPLATE</title>
     <link href="https://the-transcreators.github.io/template/feed.xml" rel="self" />
     <link href="https://the-transcreators.github.io/template" />
-    <updated>2022-08-08T11:21:08+02:00</updated>
+    <updated>2022-08-11T00:07:51+02:00</updated>
     <author>
         <name>author1</name>
     </author>
@@ -193,11 +193,11 @@
         <link href="https://the-transcreators.github.io/template/image-friendly.html"/>
         <id>https://the-transcreators.github.io/template/image-friendly.html</id>
 
-        <updated>2022-08-08T05:43:53+02:00</updated>
+        <updated>2022-08-11T00:07:51+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://the-transcreators.github.io/template/media/posts/4/camera3c_3700x2000_1.85.jpg" alt="" />
-                    This template is designed to have a header image on each page. Adding them is quick and easy, but choosing them can take some time (although many would argue that it's worth the effort). SEE TEMPLATE WITH NO HEADER IMAGES Great-looking image galleries can be created in a few minutes&hellip;
+                    This template is designed to have a header image on each page. Adding them is quick and easy, but choosing them can take some time (although many would argue that it's worth the effort). SEE TEMPLATE WITH NO HEADER IMAGES It only takes a few clicks to embed videos
                 ]]>
             </summary>
         <content type="html">
@@ -225,11 +225,12 @@
 <figure class="gallery__item"><a href="https://the-transcreators.github.io/template/media/posts/4/gallery/pen_and_book_1080-70pc.jpg" data-size="1998x1080"><img loading="lazy" src="https://the-transcreators.github.io/template/media/posts/4/gallery/pen_and_book_1080-70pc-thumbnail.jpg" alt="" width="720" height="389"></a>
 <figcaption>Pen and notebook</figcaption>
 </figure>
-<div> </div></div>
+</div></div>
+<p> </p>
+<h4>It only takes a few clicks to embed videos</h4>
+<div class="post__iframe"><iframe loading="lazy" width="1280" height="720" src="https://www.youtube.com/embed/rzmd7RouGrM?start=25" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
 <div> </div>
-<h4>It only takes a few clicks to embed a video</h4>
-<figure class="post__video"><iframe loading="lazy" width="1280" height="720" src="https://www.youtube.com/embed/rzmd7RouGrM" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-</div>
+<div class="post__iframe"><iframe loading="lazy" width="1280" height="720" src="https://www.youtube.com/embed/MFCa0VkJdxo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
